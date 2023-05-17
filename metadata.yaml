@@ -1,0 +1,41 @@
+_repo: Trotwood-s-Monthly-Vol-I-No-3-December-1905_70553
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Moore, John Trotwood
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '25956'
+    url: http://www.gutenberg.org/2009/agents/25956
+    wikipedia: https://en.wikipedia.org/wiki/John_Trotwood_Moore
+description: Bob Taylor's Magazine and Trotwood's Monthly merged in 1906 to form The
+  Taylor-Trotwood Magazine. Project Gutenberg has issues of all three titles.
+gutenberg_issued: '2023-04-14'
+identifiers:
+  gutenberg: '70553'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=pst.000053065667&view=1up&seq=126
+pgterms:marc905: 20200525034025various
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThe Trotwood Publishing Co., $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southern States -- Periodicals'
+- !lcsh 'Agriculture -- Southern States -- Periodicals'
+- !lcsh 'Horses -- Periodicals'
+- !lcc 'AP'
+- GITenberg
+title: Trotwood's Monthly, Vol. I, No. 3, December 1905
+url: http://www.gutenberg.org/ebooks/70553
