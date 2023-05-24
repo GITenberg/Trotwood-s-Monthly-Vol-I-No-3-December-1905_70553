@@ -1,5 +1,8 @@
 _repo: Trotwood-s-Monthly-Vol-I-No-3-December-1905_70553
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70553-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -17,6 +20,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/John_Trotwood_Moore
 description: Bob Taylor's Magazine and Trotwood's Monthly merged in 1906 to form The
   Taylor-Trotwood Magazine. Project Gutenberg has issues of all three titles.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70553#Trotwood-s-Monthly-Vol-I-No-3-December-1905
 gutenberg_issued: '2023-04-14'
 identifiers:
   gutenberg: '70553'
